@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'HansiefRough';
+  src: url('https://henrique99garcia-tech.github.io/myfonte/Hansief-Rough.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-hansief {
+  font-family: 'HansiefRough', sans-serif !important;
+}
